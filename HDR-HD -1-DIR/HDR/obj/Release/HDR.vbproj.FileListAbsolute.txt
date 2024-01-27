@@ -1,0 +1,72 @@
+C:\Users\stan\source\repos\HDR1\HDR\bin\Release\HDR1.exe.config
+C:\Users\stan\source\repos\HDR1\HDR\bin\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR1\HDR\bin\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR1\HDR\bin\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR1\HDR\bin\Release\TIS.Imaging.ICImagingControl35.dll
+C:\Users\stan\source\repos\HDR1\HDR\bin\Release\TIS.Imaging.ICImagingControl35.xml
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR.vbprojAssemblyReference.cache
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR1.Form1.resources
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR1.Resources.resources
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR.vbproj.GenerateResource.cache
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR.vbproj.CoreCompileInputs.cache
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR.vbproj.CopyComplete
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR1\HDR\obj\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR\HDR\bin\Release\HDR1.exe.config
+C:\Users\stan\source\repos\HDR\HDR\bin\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR\HDR\bin\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR\HDR\bin\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR\HDR\bin\Release\TIS.Imaging.ICImagingControl35.dll
+C:\Users\stan\source\repos\HDR\HDR\bin\Release\TIS.Imaging.ICImagingControl35.xml
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR1.Form1.resources
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR1.Resources.resources
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR.vbproj.GenerateResource.cache
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR.vbproj.CoreCompileInputs.cache
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR.vbproj.CopyComplete
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR\HDR\obj\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR-HD\HDR\bin\Release\HDR1.exe.config
+C:\Users\stan\source\repos\HDR-HD\HDR\bin\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR-HD\HDR\bin\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR-HD\HDR\bin\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR-HD\HDR\bin\Release\TIS.Imaging.ICImagingControl35.dll
+C:\Users\stan\source\repos\HDR-HD\HDR\bin\Release\TIS.Imaging.ICImagingControl35.xml
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR1.Form1.resources
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR1.Resources.resources
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR.vbproj.GenerateResource.cache
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR.vbproj.CoreCompileInputs.cache
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR.vbproj.CopyComplete
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR-HD\HDR\obj\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\bin\Release\HDR1.exe.config
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\bin\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\bin\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\bin\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\bin\Release\TIS.Imaging.ICImagingControl35.dll
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\bin\Release\TIS.Imaging.ICImagingControl35.xml
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR1.Form1.resources
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR1.Resources.resources
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR.vbproj.GenerateResource.cache
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR.vbproj.CoreCompileInputs.cache
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR.vbproj.CopyComplete
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR-HD -ODD-EVEN\HDR\obj\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\bin\Release\HDR1.exe.config
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\bin\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\bin\Release\HDR1.pdb
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\bin\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\bin\Release\TIS.Imaging.ICImagingControl35.dll
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\bin\Release\TIS.Imaging.ICImagingControl35.xml
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR.vbprojAssemblyReference.cache
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR1.Form1.resources
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR1.Resources.resources
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR.vbproj.GenerateResource.cache
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR.vbproj.CoreCompileInputs.cache
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR.vbproj.CopyComplete
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR1.exe
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR1.xml
+C:\Users\stan\source\repos\HDR-HD -1-DIR\HDR\obj\Release\HDR1.pdb
